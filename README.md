@@ -69,7 +69,7 @@ It can be used for activities such as:
 
 ## 🏗️ Lab Architecture
 
-![](create_nat_net.png)
+![NAT Settings Configuration](create_nat_settings.png)
 
 
 Additional target machines can be added to the same virtual network in future projects.
